@@ -1,0 +1,1 @@
+SQLCMD -S PERCY -E -i CreateDTBQLHS.sql

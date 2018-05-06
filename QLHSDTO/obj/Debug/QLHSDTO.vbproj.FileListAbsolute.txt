@@ -1,0 +1,10 @@
+C:\Users\buiqu\source\repos\TH1\QLHSDTO\bin\Debug\QLHSDTO.dll
+C:\Users\buiqu\source\repos\TH1\QLHSDTO\bin\Debug\QLHSDTO.pdb
+C:\Users\buiqu\source\repos\TH1\QLHSDTO\bin\Debug\QLHSDTO.xml
+C:\Users\buiqu\source\repos\TH1\QLHSDTO\obj\Debug\QLHSDTO.Resources.resources
+C:\Users\buiqu\source\repos\TH1\QLHSDTO\obj\Debug\QLHSDTO.vbproj.GenerateResource.cache
+C:\Users\buiqu\source\repos\TH1\QLHSDTO\obj\Debug\QLHSDTO.vbproj.CoreCompileInputs.cache
+C:\Users\buiqu\source\repos\TH1\QLHSDTO\obj\Debug\QLHSDTO.dll
+C:\Users\buiqu\source\repos\TH1\QLHSDTO\obj\Debug\QLHSDTO.xml
+C:\Users\buiqu\source\repos\TH1\QLHSDTO\obj\Debug\QLHSDTO.pdb
+C:\Users\buiqu\source\repos\TH1\QLHSDTO\obj\Debug\QLHSDTO.vbprojResolveAssemblyReference.cache

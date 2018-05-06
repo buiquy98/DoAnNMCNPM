@@ -1,0 +1,17 @@
+C:\Users\buiqu\source\repos\TH1\QLHSDAL\obj\Debug\QLHSDAL.vbprojResolveAssemblyReference.cache
+C:\Users\buiqu\source\repos\TH1\QLHSDAL\obj\Debug\QLHSDAL.Resources.resources
+C:\Users\buiqu\source\repos\TH1\QLHSDAL\obj\Debug\QLHSDAL.vbproj.GenerateResource.cache
+C:\Users\buiqu\source\repos\TH1\QLHSDAL\obj\Debug\QLHSDAL.vbproj.CoreCompileInputs.cache
+C:\Users\buiqu\source\repos\TH1\QLHSDAL\bin\Debug\QLHSDAL.dll
+C:\Users\buiqu\source\repos\TH1\QLHSDAL\bin\Debug\QLHSDAL.pdb
+C:\Users\buiqu\source\repos\TH1\QLHSDAL\bin\Debug\QLHSDAL.xml
+C:\Users\buiqu\source\repos\TH1\QLHSDAL\bin\Debug\QLHSDTO.dll
+C:\Users\buiqu\source\repos\TH1\QLHSDAL\bin\Debug\Utility.dll
+C:\Users\buiqu\source\repos\TH1\QLHSDAL\bin\Debug\QLHSDTO.pdb
+C:\Users\buiqu\source\repos\TH1\QLHSDAL\bin\Debug\QLHSDTO.xml
+C:\Users\buiqu\source\repos\TH1\QLHSDAL\bin\Debug\Utility.pdb
+C:\Users\buiqu\source\repos\TH1\QLHSDAL\bin\Debug\Utility.xml
+C:\Users\buiqu\source\repos\TH1\QLHSDAL\obj\Debug\QLHSDAL.vbproj.CopyComplete
+C:\Users\buiqu\source\repos\TH1\QLHSDAL\obj\Debug\QLHSDAL.dll
+C:\Users\buiqu\source\repos\TH1\QLHSDAL\obj\Debug\QLHSDAL.xml
+C:\Users\buiqu\source\repos\TH1\QLHSDAL\obj\Debug\QLHSDAL.pdb
